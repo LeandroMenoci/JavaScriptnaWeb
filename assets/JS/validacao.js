@@ -43,19 +43,21 @@ const mensagensDeErro = {
     customError: 'O CPF digitado não é válido.'
   },
   cep: {
-    valueMissing: 'O campo de CEP não pode estar vazio',
-    patternMismatch: 'O CEP digitado não é válido',
+    valueMissing: 'O campo de CEP não pode estar vazio.',
+    patternMismatch: 'O CEP digitado não é válido.',
     customError: 'Não foi possível buscar o CEP.'
   },
   logradouro: {
-    valueMissing: 'O campo de logradouro não pode estar vazio',
+    valueMissing: 'O campo de logradouro não pode estar vazio.',
   },
   cidade: {
-    valueMissing: 'O campo de cidade não pode estar vazio',
+    valueMissing: 'O campo de cidade não pode estar vazio.',
   },
   estado: {
-    valueMissing: 'O campo de estado não pode estar vazio',
-
+    valueMissing: 'O campo de estado não pode estar vazio.',
+  },
+  preco: {
+    valueMissing: 'O campo de preço não pode estar vazio.'
   }
 }
 
